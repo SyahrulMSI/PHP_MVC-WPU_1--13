@@ -1,5 +1,9 @@
 # PHP_MVC-WPU_1--13
-this file a finnaly project PHP MVC an WPU
+This file a finnaly project PHP MVC an WPU
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](https://opensource.org/licenses/MIT)
+
+[![Poweredby: CodeIgniter](https://img.shields.io/badge/CodeIgniter-v3.1.10-lightgrey.svg?style=plastic&logo=codeigniter&logoColor=white&labelColor=orange)](https://codeigniter.com/) [![Poweredby: PHP](https://img.shields.io/badge/php-%3E=5.6-lightgrey.svg?style=plastic&logo=php&logoColor=white&labelColor=8892BF)](http://www.php.net/) [![Poweredby: MySQL](https://img.shields.io/badge/MySQL-%3E=5.7-lightgrey.svg?style=plastic&logo=mysql&logoColor=white&labelColor=0074a3)](https://www.mysql.com)
 
 - - Project 1
 - - Project 2
