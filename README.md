@@ -3,7 +3,6 @@ This file a finnaly project PHP MVC an WPU
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=plastic)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/watchers/SyahrulMSI/PHP_MVC-WPU_1--13.svg)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/SyahrulMSI/PHP_MVC-WPU_1--13)
 
 [![Poweredby: CodeIgniter](https://img.shields.io/badge/Bootstrap-v5.0-lightgrey.svg?style=plastic&logo=bootstrap&logoColor=white&labelColor=orange)](https://codeigniter.com/) [![Poweredby: PHP](https://img.shields.io/badge/php-%3E=8.0.9-lightgrey.svg?style=plastic&logo=php&logoColor=white&labelColor=8892BF)](http://www.php.net/) [![Poweredby: MySQL](https://img.shields.io/badge/MySQL-%3E=8.0-lightgrey.svg?style=plastic&logo=mysql&logoColor=white&labelColor=0074a3)](https://www.mysql.com)
 
